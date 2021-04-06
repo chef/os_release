@@ -1,0 +1,15 @@
+NAME="AlmaLinux"
+VERSION="8.3 (Purple Manul)"
+ID="almalinux"
+ID_LIKE="rhel centos fedora"
+VERSION_ID="8.3"
+PLATFORM_ID="platform:el8"
+PRETTY_NAME="AlmaLinux 8.3 (Purple Manul)"
+ANSI_COLOR="0;34"
+CPE_NAME="cpe:/o:almalinux:almalinux:8.3:GA"
+HOME_URL="https://almalinux.org/"
+BUG_REPORT_URL="https://bugs.almalinux.org/"
+
+ALMALINUX_MANTISBT_PROJECT="AlmaLinux-8"
+ALMALINUX_MANTISBT_PROJECT_VERSION="8.3"
+
