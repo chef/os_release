@@ -1,0 +1,12 @@
+PRETTY_NAME="LMDE 6 (faye)"
+NAME="LMDE"
+VERSION_ID="6"
+VERSION="6 (faye)"
+VERSION_CODENAME=faye
+ID=linuxmint
+HOME_URL="https://www.linuxmint.com/"
+SUPPORT_URL="https://forums.linuxmint.com/"
+BUG_REPORT_URL="http://linuxmint-troubleshooting-guide.readthedocs.io/en/latest/"
+PRIVACY_POLICY_URL="https://www.linuxmint.com/"
+ID_LIKE=debian
+DEBIAN_CODENAME=bookworm
