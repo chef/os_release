@@ -1,7 +1,7 @@
-PRETTY_NAME="Ubuntu 24.04 LTS"
+PRETTY_NAME="Ubuntu 24.04.3 LTS"
 NAME="Ubuntu"
 VERSION_ID="24.04"
-VERSION="24.04 LTS (Noble Numbat)"
+VERSION="24.04.3 LTS (Noble Numbat)"
 VERSION_CODENAME=noble
 ID=ubuntu
 ID_LIKE=debian
