@@ -1,0 +1,12 @@
+NAME="Linux Mint"
+VERSION="21.3 (Virginia)"
+ID=linuxmint
+ID_LIKE="ubuntu debian"
+PRETTY_NAME="Linux Mint 21.3"
+VERSION_ID="21.3"
+HOME_URL="https://www.linuxmint.com/"
+SUPPORT_URL="https://forums.linuxmint.com/"
+BUG_REPORT_URL="http://Linuxmint-troubleshooting-guide readthedocs. 10/en/latest/"
+PRIVACY_POLICY_URL="https://www.linuxmint.com/"
+VERSION_CODENAME=virginia
+UBUNTU_CODENAME=jammy
