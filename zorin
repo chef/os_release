@@ -1,0 +1,12 @@
+NAME="Zorin OS"
+VERSION="16"
+ID=zorin
+ID_LIKE=ubuntu
+PRETTY_NAME="Zorin OS 16"
+VERSION_ID="16"
+HOME_URL="https://zorin.com/os/"
+SUPPORT_URL="https://zorin.com/help/"
+BUG_REPORT_URL="https://zorin.com/os/feedback/"
+PRIVACY_POLICY_URL="https://zorin.com/legal/privacy/"
+VERSION_CODENAME=focal
+UBUNTU_CODENAME=focal
