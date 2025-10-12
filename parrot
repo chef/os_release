@@ -1,0 +1,9 @@
+PRETTY_NAME="Parrot OS 4.11"
+NAME="Parrot OS"
+ID=parrot
+ID_LIKE=debian
+VERSION="4.11"
+VERSION_ID="4.11"
+HOME_URL="https://www.parrotsec.org/"
+SUPPORT_URL="https://community.parrotsec.org/"
+BUG_REPORT_URL="https://community.parrotsec.org/"
