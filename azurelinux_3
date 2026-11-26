@@ -1,5 +1,5 @@
 NAME="Microsoft Azure Linux"
-VERSION="3.0.20241005"
+VERSION="3.0.20261116"
 ID=azurelinux
 VERSION_ID="3.0"
 PRETTY_NAME="Microsoft Azure Linux 3.0"
