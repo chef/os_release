@@ -1,0 +1,7 @@
+NAME="openEuler"
+VERSION="25.03"
+ID="openEuler"
+VERSION_ID="25.03"
+PRETTY_NAME="openEuler 25.03"
+ANSI_COLOR="0;31"
+
