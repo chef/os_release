@@ -1,0 +1,11 @@
+NAME=Slackware
+VERSION="15.0"
+ID=slackware
+VERSION_ID=15.0
+PRETTY_NAME="Slackware 15.0 x86_64"
+ANSI_COLOR="0;34"
+CPE_NAME="cpe:/o:slackware:slackware_linux:15.0"
+HOME_URL="http://slackware.com/"
+SUPPORT_URL="http://www.linuxquestions.org/questions/slackware-14/"
+BUG_REPORT_URL="http://www.linuxquestions.org/questions/slackware-14/"
+VERSION_CODENAME=stable
