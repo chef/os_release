@@ -1,0 +1,17 @@
+NAME="Navy Linux Enterprise"
+VERSION="8.4 (Base)"
+ID="navylinux"
+ID_LIKE="rhel fedora"
+VERSION_ID="8"
+PLATFORM_ID="platform:el8"
+PRETTY_NAME="Navy Linux Enterprise 8 (Base)"
+ANSI_COLOR="0;31"
+CPE_NAME="cpe:/o:navylinux:navylinux:8"
+HOME_URL="https://www.navylinux.org/"
+BUG_REPORT_URL="https://git.navylinux.org/issue-tracker/general/-/issues"
+
+NAVYLINUX_MANTISBT_PROJECT="NavyLinux-8"
+NAVYLINUX_MANTISBT_PROJECT_VERSION="8"
+REDHAT_SUPPORT_PRODUCT="navylinux"
+REDHAT_SUPPORT_PRODUCT_VERSION="8"
+
