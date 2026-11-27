@@ -1,7 +1,7 @@
-PRETTY_NAME="Ubuntu 26.04 LTS"
+PRETTY_NAME="Ubuntu 26.04.1 LTS"
 NAME="Ubuntu"
 VERSION_ID="26.04"
-VERSION="26.04 (Resolute Raccoon)"
+VERSION="26.04.1 LTS (Resolute Raccoon)"
 VERSION_CODENAME=resolute
 ID=ubuntu
 ID_LIKE=debian
