@@ -1,13 +1,14 @@
 NAME="Red Hat Enterprise Linux"
-VERSION="10.0 (Coughlan)"
+VERSION="10.3 (Coughlan)"
+RELEASE_TYPE=stable
 ID="rhel"
 ID_LIKE="centos fedora"
-VERSION_ID="10.0"
+VERSION_ID="10.3"
 PLATFORM_ID="platform:el10"
-PRETTY_NAME="Red Hat Enterprise Linux 10.0 (Coughlan)"
+PRETTY_NAME="Red Hat Enterprise Linux 10.3 (Coughlan)"
 ANSI_COLOR="0;31"
 LOGO="fedora-logo-icon"
-CPE_NAME="cpe:/o:redhat:enterprise_linux:10.0"
+CPE_NAME="cpe:/o:redhat:enterprise_linux:10.3"
 HOME_URL="https://www.redhat.com/"
 VENDOR_NAME="Red Hat"
 VENDOR_URL="https://www.redhat.com/"
@@ -15,6 +16,6 @@ DOCUMENTATION_URL="https://access.redhat.com/documentation/en-us/red_hat_enterpr
 BUG_REPORT_URL="https://issues.redhat.com/"
 
 REDHAT_BUGZILLA_PRODUCT="Red Hat Enterprise Linux 10"
-REDHAT_BUGZILLA_PRODUCT_VERSION=10.0
+REDHAT_BUGZILLA_PRODUCT_VERSION=10.3
 REDHAT_SUPPORT_PRODUCT="Red Hat Enterprise Linux"
-REDHAT_SUPPORT_PRODUCT_VERSION="10.0"
+REDHAT_SUPPORT_PRODUCT_VERSION="10.3"
