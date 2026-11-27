@@ -1,10 +1,10 @@
 NAME="Red Hat Enterprise Linux"
-VERSION="9.6 (Plow)"
+VERSION="9.9 (Plow)"
 ID="rhel"
 ID_LIKE="fedora"
-VERSION_ID="9.6"
+VERSION_ID="9.9"
 PLATFORM_ID="platform:el9"
-PRETTY_NAME="Red Hat Enterprise Linux 9.6 (Plow)"
+PRETTY_NAME="Red Hat Enterprise Linux 9.9 (Plow)"
 ANSI_COLOR="0;31"
 LOGO="fedora-logo-icon"
 CPE_NAME="cpe:/o:redhat:enterprise_linux:9::baseos"
@@ -13,6 +13,6 @@ DOCUMENTATION_URL="https://access.redhat.com/documentation/en-us/red_hat_enterpr
 BUG_REPORT_URL="https://issues.redhat.com/"
 
 REDHAT_BUGZILLA_PRODUCT="Red Hat Enterprise Linux 9"
-REDHAT_BUGZILLA_PRODUCT_VERSION=9.6
+REDHAT_BUGZILLA_PRODUCT_VERSION=9.9
 REDHAT_SUPPORT_PRODUCT="Red Hat Enterprise Linux"
-REDHAT_SUPPORT_PRODUCT_VERSION="9.6"
+REDHAT_SUPPORT_PRODUCT_VERSION="9.9"
