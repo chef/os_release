@@ -1,0 +1,13 @@
+NAME="Linux Mint"
+VERSION="27 (Adrien)"
+ID=linuxmint
+ID_LIKE="ubuntu debian"
+PRETTY_NAME="Linux Mint 27"
+VERSION_ID="27"
+HOME_URL="https://www.linuxmint.com/"
+SUPPORT_URL="https://forums.linuxmint.com/"
+BUG_REPORT_URL="http://linuxmint-troubleshooting-guide.readthedocs.io/en/latest/"
+PRIVACY_POLICY_URL="https://www.linuxmint.com/"
+VERSION_CODENAME=adrien
+UBUNTU_CODENAME=resolute
+LOGO=ubuntu-logo
