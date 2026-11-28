@@ -1,0 +1,9 @@
+NAME="Cumulus Linux"
+VERSION_ID=4.4.5
+VERSION="Cumulus Linux 4.4.5"
+PRETTY_NAME="Cumulus Linux"
+ID=cumulus-linux
+ID_LIKE=debian
+CPE_NAME=cpe:/o:cumulusnetworks:cumulus_linux:4.4.5
+HOME_URL="http://www.cumulusnetworks.com/"
+SUPPORT_URL="http://support.cumulusnetworks.com/"
